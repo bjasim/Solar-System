@@ -78,4 +78,4 @@ In this project, we'll create a 3D model of a solar system using p5.js. The mode
 ## Usage
 
 1. Clone or download this repository to your local machine.
-2. https://bjasim.github.io/Solar-System/
+2.  Or preview it here: https://bjasim.github.io/Solar-System/
